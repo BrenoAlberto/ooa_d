@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "a97ae8777ad44d6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d36954b4a66f1b4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1-Analise_e_Design_Orientados_a_Objetos.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c706b5879a83f63",
+    "type": "split",
+    "children": [
+      {
+        "id": "7908005b78baefdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fbc62cabeba98da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d73b32f9ffda8b99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b1a745dcf4b16fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef4c36d17c672154",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26e130396e35062c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-Analise_e_Design_Orientados_a_Objetos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1d36954b4a66f1b4",
+  "lastOpenFiles": [
+    "1-Analise_e_Design_Orientados_a_Objetos.md"
+  ]
+}
